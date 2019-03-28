@@ -8,9 +8,14 @@ cout<<"Danilo Borozan 161025"<<endl;
 }
 
 void printMyIndex () {
+<<<<<<< HEAD
 	//TODO
+=======
+	cout<<"161025"<<endl;
+>>>>>>> bugFix2
 }
 
 int main () {
-	//TODO
+	MyName();
+        MyIndex();
 }
